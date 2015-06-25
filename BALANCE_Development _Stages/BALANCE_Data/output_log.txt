@@ -1,0 +1,211 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Marlon\Desktop\Mcast\HND in Interactive Media\Year 2\Second Semester\UNITY\UNITY_GAMES\Balance\BALANCE_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Marlon\Desktop\Mcast\HND in Interactive Media\Year 2\Second Semester\UNITY\UNITY_GAMES\Balance\BALANCE_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Marlon\Desktop\Mcast\HND in Interactive Media\Year 2\Second Semester\UNITY\UNITY_GAMES\Balance\BALANCE_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Marlon\Desktop\Mcast\HND in Interactive Media\Year 2\Second Semester\UNITY\UNITY_GAMES\Balance\BALANCE_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Marlon\Desktop\Mcast\HND in Interactive Media\Year 2\Second Semester\UNITY\UNITY_GAMES\Balance\BALANCE_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Marlon\Desktop\Mcast\HND in Interactive Media\Year 2\Second Semester\UNITY\UNITY_GAMES\Balance\BALANCE_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Marlon\Desktop\Mcast\HND in Interactive Media\Year 2\Second Semester\UNITY\UNITY_GAMES\Balance\BALANCE_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Marlon\Desktop\Mcast\HND in Interactive Media\Year 2\Second Semester\UNITY\UNITY_GAMES\Balance\BALANCE_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.072 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Marlon\Desktop\Mcast\HND in Interactive Media\Year 2\Second Semester\UNITY\UNITY_GAMES\Balance\BALANCE_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Marlon\Desktop\Mcast\HND in Interactive Media\Year 2\Second Semester\UNITY\UNITY_GAMES\Balance\BALANCE_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1a04 -> priority: 1 
+  Thread -> id: 1334 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.968085 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 424.
+Total: 0.323287 ms (FindLiveObjects: 0.044784 ms CreateObjectMapping: 0.023791 ms MarkObjects: 0.171207 ms  DeleteObjects: 0.082571 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.459040 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 345.
+Total: 0.187068 ms (FindLiveObjects: 0.019126 ms CreateObjectMapping: 0.023325 ms MarkObjects: 0.118492 ms  DeleteObjects: 0.024724 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.428250 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 417.
+Total: 0.369004 ms (FindLiveObjects: 0.022392 ms CreateObjectMapping: 0.024258 ms MarkObjects: 0.165142 ms  DeleteObjects: 0.156745 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.624182 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 516.
+Total: 0.505690 ms (FindLiveObjects: 0.069509 ms CreateObjectMapping: 0.056913 ms MarkObjects: 0.244448 ms  DeleteObjects: 0.133420 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.555606 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 407.
+Total: 0.372736 ms (FindLiveObjects: 0.023325 ms CreateObjectMapping: 0.034054 ms MarkObjects: 0.191733 ms  DeleteObjects: 0.123157 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.567735 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 458.
+Total: 0.332151 ms (FindLiveObjects: 0.027057 ms CreateObjectMapping: 0.022392 ms MarkObjects: 0.206194 ms  DeleteObjects: 0.076040 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.521085 ms
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 0.409590 ms (FindLiveObjects: 0.026590 ms CreateObjectMapping: 0.023791 ms MarkObjects: 0.211792 ms  DeleteObjects: 0.146482 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.436181 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 474.
+Total: 0.383000 ms (FindLiveObjects: 0.069042 ms CreateObjectMapping: 0.059246 ms MarkObjects: 0.244448 ms  DeleteObjects: 0.009330 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Timer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Timer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Timer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Timer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Timer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Timer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Timer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Timer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Timer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Timer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Timer.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.532281 ms
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 410.
+Total: 0.422186 ms (FindLiveObjects: 0.022392 ms CreateObjectMapping: 0.036387 ms MarkObjects: 0.187068 ms  DeleteObjects: 0.175872 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.525750 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 461.
+Total: 0.303227 ms (FindLiveObjects: 0.020059 ms CreateObjectMapping: 0.018193 ms MarkObjects: 0.190800 ms  DeleteObjects: 0.073707 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.422186 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 381.
+Total: 0.278969 ms (FindLiveObjects: 0.022392 ms CreateObjectMapping: 0.024258 ms MarkObjects: 0.205261 ms  DeleteObjects: 0.026124 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.444112 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 776.
+Total: 0.394196 ms (FindLiveObjects: 0.034054 ms CreateObjectMapping: 0.051315 ms MarkObjects: 0.233252 ms  DeleteObjects: 0.075107 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.919198 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 776.
+Total: 0.396528 ms (FindLiveObjects: 0.060179 ms CreateObjectMapping: 0.034054 ms MarkObjects: 0.287366 ms  DeleteObjects: 0.013528 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.169711 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 776.
+Total: 0.468370 ms (FindLiveObjects: 0.067176 ms CreateObjectMapping: 0.034521 ms MarkObjects: 0.341947 ms  DeleteObjects: 0.023325 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.804438 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 776.
+Total: 0.452042 ms (FindLiveObjects: 0.058779 ms CreateObjectMapping: 0.036387 ms MarkObjects: 0.342414 ms  DeleteObjects: 0.013528 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.522951 ms
+
+Unloading 340 unused Assets to reduce memory usage. Loaded Objects now: 410.
+Total: 0.608321 ms (FindLiveObjects: 0.037786 ms CreateObjectMapping: 0.051315 ms MarkObjects: 0.230919 ms  DeleteObjects: 0.287833 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.836908 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 410.
+Total: 0.297629 ms (FindLiveObjects: 0.023325 ms CreateObjectMapping: 0.023791 ms MarkObjects: 0.242582 ms  DeleteObjects: 0.007464 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.420320 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 410.
+Total: 0.289232 ms (FindLiveObjects: 0.021459 ms CreateObjectMapping: 0.023325 ms MarkObjects: 0.236984 ms  DeleteObjects: 0.006997 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.445511 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 410.
+Total: 0.287366 ms (FindLiveObjects: 0.021925 ms CreateObjectMapping: 0.033588 ms MarkObjects: 0.223922 ms  DeleteObjects: 0.007464 ms)
+
+ok
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
