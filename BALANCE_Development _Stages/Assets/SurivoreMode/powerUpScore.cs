@@ -20,7 +20,7 @@ public class powerUpScore : MonoBehaviour {
 		if(col.gameObject.tag == "box")
 			
 			//Increase the score by 1
-			playScreen.score+=5;
+			playScreen.score+=10;
 		GetComponent<AudioSource> ().PlayOneShot (powersound);
 			Destroy(this.gameObject);
 
